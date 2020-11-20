@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_calculadora.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="289">
+              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -96,7 +96,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests for test_calculadora.TestMyCalculator.test_add_method">
+    <configuration name="Unittests for test_calculadora.TestMyCalculator.test_add_method" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="COM450" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculadora.TestMyCalculator.test_add_method&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for test_calculadora.TestMyCalculator.test_initial_value" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="COM450" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_calculadora.TestMyCalculator.test_add_method" />
         <item itemvalue="Python tests.Unittests for test_calculadora.TestMyCalculator.test_initial_value" />
       </list>
     </recent_temporary>
@@ -139,6 +154,9 @@
     </history-entry>
     <history-entry file="Unittests_for_test_calculadora_TestMyCalculator_test_initial_value - 2020.11.19 at 22h 16m 11s.xml">
       <configuration name="Unittests for test_calculadora.TestMyCalculator.test_initial_value" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_calculadora_TestMyCalculator_test_add_method - 2020.11.19 at 22h 17m 54s.xml">
+      <configuration name="Unittests for test_calculadora.TestMyCalculator.test_add_method" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -176,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_calculadora.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state relative-caret-position="289">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
