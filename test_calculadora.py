@@ -16,7 +16,7 @@ class TestMyCalculator(unittest.TestCase):
 
     def test_sub_method(self):
         self.calc.sub(5, 3)
-        self.assertEqual(10, self.calc.value)
+        self.assertEqual(2, self.calc.value)
 
     def test_mul_method(self):
         self.calc.mul(2, 6)
